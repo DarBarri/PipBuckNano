@@ -11,7 +11,8 @@ component list:
 6) pc speaker or any other 13mm speaker
 7) 3 red 3mm diods
 8) 4 M2X4 screw
-9) SS12F15 power switch 
+9) SS12F15 power switch
+10) 03962A or any other charge module
 
 model can be found here:
 https://www.thingiverse.com/thing:5319949
