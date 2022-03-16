@@ -280,6 +280,9 @@ void loop() {
   }
   if (DemoMODE) {
     if (currentMillis - previousMillis >= interval) {
+      tone(SpeakerPin, 700);
+      delay(10);
+      noTone(SpeakerPin);
       previousMillis = currentMillis;
       DigitalDR = true;
     }
@@ -354,13 +357,13 @@ void LowerButtonGlow(int nmb) {
   analogWrite(A3, 0);
   switch (nmb) {
     case 0:
-      analogWrite(A1, 128);
+      analogWrite(A1, 127);
       break;
     case 1:
-      analogWrite(A2, 128);
+      analogWrite(A2, 127);
       break;
     case 2:
-      analogWrite(A3, 128);
+      analogWrite(A3, 127);
       break;
     default:
       break;
