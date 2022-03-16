@@ -18,4 +18,6 @@ component list:
 model can be found here:
 https://www.thingiverse.com/thing:5319949
 
+![rVTlvK1zYgg](https://user-images.githubusercontent.com/52502033/158655044-a7365847-bc18-4e0b-b717-068ca7772cd7.jpg)
+
 ![Schematic_PipBuck_2022-03-16](https://user-images.githubusercontent.com/52502033/158651432-2d1663d3-1071-4afa-badc-11ab95b2c863.png)
