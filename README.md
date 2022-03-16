@@ -2,6 +2,7 @@
 Arduino nano based toy pipBuck 
 This pipBuck was created for plush toys 30-70cm(11-25ich)
 Original firmware contains 6 screens with LittlePip characteristics and pong
+
 component list:
 1) arduino nano
 2) 2 6x6mm buttons(6x6x9 would be the best, but you may use a 6x6x4.3/5 with 3d printed caps)
