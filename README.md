@@ -12,6 +12,7 @@ component list:
 7) 3 red 3mm diods
 8) 4 M2X4 screw
 9) SS12F15 power switch 
+
 model can be found here:
 https://www.thingiverse.com/thing:5319949
 
