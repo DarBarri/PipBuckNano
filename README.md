@@ -1,4 +1,4 @@
-# NanoPipBuck
+# PipBuckNano
 Arduino nano based toy pipBuck 
 
 This pipBuck was created for plush toys 30-70cm(11-25ich)
